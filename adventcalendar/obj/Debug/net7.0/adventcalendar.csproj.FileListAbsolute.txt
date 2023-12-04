@@ -1,0 +1,16 @@
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\day1\input.txt
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\Advent.exe
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\Advent.deps.json
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\Advent.runtimeconfig.json
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\Advent.dll
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\Advent.pdb
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\adventcalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\adventcalendar.AssemblyInfoInputs.cache
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\adventcalendar.AssemblyInfo.cs
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\adventcalendar.csproj.CoreCompileInputs.cache
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\Advent.dll
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\refint\Advent.dll
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\Advent.pdb
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\adventcalendar.genruntimeconfig.cache
+C:\Git\Personal\adventcalendar\adventcalendar\obj\Debug\net7.0\ref\Advent.dll
+C:\Git\Personal\adventcalendar\adventcalendar\bin\Debug\net7.0\day4\input.txt
