@@ -1,5 +1,4 @@
-﻿using adventcalendar.day_4;
+﻿using adventcalendar.day5;
 
-var scratchcards = new Scratchcards();
-var result = scratchcards.ex1();
-Console.WriteLine(result);
+var fertilizer = new Fertilizer();
+Console.WriteLine(fertilizer.ex1());
